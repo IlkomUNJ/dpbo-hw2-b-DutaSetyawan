@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# App runtime data files
+data_buyers.csv
+data_sellers.csv
+data_inventory.csv
+data_orders.csv
